@@ -17,7 +17,7 @@ Support all Android versions from API 21 (Lollipop)
 
 Screenshot
 ==========================
-![Alt text](/Users/PriyankaP/Desktop/Screenshot_Destination.png?raw=true)
+![screenshot_destination](https://user-images.githubusercontent.com/17963818/36948075-656bf1c8-2029-11e8-88ac-f91be398d4cc.png)
 
 Developed By
 ============
